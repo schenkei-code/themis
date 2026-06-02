@@ -9,6 +9,50 @@
 
 **THEMIS** is a full-stack legal AI assistant for Claude Code, covering Austrian, German, EU, and US law with exact statutes, landmark case references, ready-to-use legal templates, and enforcement strategies — across every major area of law.
 
+---
+
+## 🌍 Available in All Languages
+
+| Language | Tagline | Description |
+|---|---|---|
+| 🇺🇸 **English** | Having rights is good. Enforcing them is better. | Full-stack legal AI assistant for AT/DE/EU/US law |
+| 🇩🇪 **Deutsch** | Rechte zu haben ist gut. Sie durchzusetzen ist besser. | KI-Rechtsassistent für AT/DE/EU/US-Recht mit echten Paragrafen |
+| 🇦🇹 **Österreichisch** | Rechte haben ist gut. Rechte durchsetzen ist besser. | Vollständiger Rechtsassistent für österreichisches, deutsches, EU- und US-Recht |
+| 🇫🇷 **Français** | Avoir des droits est bien. Les faire valoir est mieux. | Assistant juridique IA complet pour le droit AT/DE/EU/US |
+| 🇪🇸 **Español** | Tener derechos está bien. Hacerlos valer es mejor. | Asistente legal de IA completo para derecho AT/DE/EU/US |
+| 🇮🇹 **Italiano** | Avere diritti è bene. Farli valere è meglio. | Assistente legale IA completo per il diritto AT/DE/EU/US |
+| 🇵🇹 **Português** | Ter direitos é bom. Fazê-los valer é melhor. | Assistente jurídico de IA completo para direito AT/DE/EU/US |
+| 🇳🇱 **Nederlands** | Rechten hebben is goed. Ze afdwingen is beter. | Volledige juridische AI-assistent voor AT/DE/EU/US-recht |
+| 🇵🇱 **Polski** | Mieć prawa jest dobre. Egzekwować je jest lepsze. | Pełny asystent prawny AI dla prawa AT/DE/EU/US |
+| 🇷🇺 **Русский** | Иметь права — хорошо. Отстаивать их — лучше. | Полный юридический ИИ-ассистент для права AT/DE/EU/US |
+| 🇺🇦 **Українська** | Мати права — добре. Відстоювати їх — краще. | Повний юридичний ШІ-асистент для права AT/DE/EU/US |
+| 🇹🇷 **Türkçe** | Haklara sahip olmak iyidir. Onları uygulatmak daha iyidir. | AT/DE/AB/ABD hukuku için tam yığın hukuki yapay zeka asistanı |
+| 🇸🇦 **العربية** | امتلاك الحقوق أمر جيد. تطبيقها أفضل. | مساعد قانوني بالذكاء الاصطناعي لقانون AT/DE/EU/US |
+| 🇯🇵 **日本語** | 権利を持つことは良い。行使することはもっと良い。 | AT/DE/EU/US法の完全法律AIアシスタント |
+| 🇨🇳 **中文** | 拥有权利是好的。维权更好。 | 覆盖AT/DE/EU/US法律的全栈法律AI助手 |
+| 🇰🇷 **한국어** | 권리를 갖는 것은 좋다. 그것을 행사하는 것은 더 좋다. | AT/DE/EU/US 법률 전문 AI 법률 도우미 |
+| 🇮🇳 **हिन्दी** | अधिकार होना अच्छा है। उन्हें लागू करना बेहतर है। | AT/DE/EU/US कानून के लिए पूर्ण AI कानूनी सहायक |
+| 🇸🇪 **Svenska** | Att ha rättigheter är bra. Att hävda dem är bättre. | Fullständig juridisk AI-assistent för AT/DE/EU/US-rätt |
+| 🇩🇰 **Dansk** | At have rettigheder er godt. At håndhæve dem er bedre. | Fuld juridisk AI-assistent til AT/DE/EU/US-ret |
+| 🇳🇴 **Norsk** | Å ha rettigheter er bra. Å håndheve dem er bedre. | Fullstendig juridisk AI-assistent for AT/DE/EU/US-rett |
+| 🇫🇮 **Suomi** | Oikeuksien omistaminen on hyvä. Niiden täytäntöönpano on parempi. | Täydellinen oikeudellinen tekoälyassistentti AT/DE/EU/US-oikeudelle |
+| 🇬🇷 **Ελληνικά** | Το να έχεις δικαιώματα είναι καλό. Το να τα επιβάλλεις είναι καλύτερο. | Πλήρης νομικός βοηθός AI για δίκαιο AT/DE/EU/US |
+| 🇨🇿 **Čeština** | Mít práva je dobré. Vymáhat je je lepší. | Kompletní právní AI asistent pro právo AT/DE/EU/US |
+| 🇸🇰 **Slovenčina** | Mať práva je dobré. Vymáhať ich je lepšie. | Kompletný právny AI asistent pre právo AT/DE/EU/US |
+| 🇭🇺 **Magyar** | Jogokat bírni jó. Érvényesíteni őket jobb. | Teljes körű jogi AI asszisztens AT/DE/EU/US joghoz |
+| 🇷🇴 **Română** | A avea drepturi este bine. A le impune este mai bine. | Asistent juridic AI complet pentru dreptul AT/DE/EU/US |
+| 🇧🇬 **Български** | Да имаш права е добре. Да ги отстояваш е по-добре. | Пълен правен AI асистент за право AT/DE/EU/US |
+| 🇭🇷 **Hrvatski** | Imati prava je dobro. Provoditi ih je bolje. | Potpuni pravni AI asistent za pravo AT/DE/EU/US |
+| 🇸🇮 **Slovenščina** | Imeti pravice je dobro. Uveljavljati jih je bolje. | Celotni pravni AI asistent za pravo AT/DE/EU/US |
+| 🇷🇸 **Srpski** | Imati prava je dobro. Sprovoditi ih je bolje. | Potpuni pravni AI asistent za pravo AT/DE/EU/US |
+| 🇮🇱 **עברית** | לקיים זכויות זה טוב. לאכוף אותן עדיף. | עוזר משפטי AI מלא לחוק AT/DE/EU/US |
+| 🇮🇷 **فارسی** | داشتن حقوق خوب است. اجرای آن‌ها بهتر است. | دستیار حقوقی کامل هوش مصنوعی برای حقوق AT/DE/EU/US |
+| 🇹🇭 **ภาษาไทย** | มีสิทธิ์เป็นเรื่องดี การบังคับใช้ดีกว่า | ผู้ช่วยกฎหมาย AI ครบวงจรสำหรับกฎหมาย AT/DE/EU/US |
+| 🇻🇳 **Tiếng Việt** | Có quyền là tốt. Thực thi quyền tốt hơn. | Trợ lý pháp lý AI đầy đủ cho luật AT/DE/EU/US |
+| 🇮🇩 **Bahasa Indonesia** | Memiliki hak itu baik. Menegakkannya lebih baik. | Asisten hukum AI lengkap untuk hukum AT/DE/EU/US |
+
+---
+
 No more "consult a lawyer for everything." Know your rights, enforce them, generate finished legal documents — all inside your AI assistant.
 
 ---

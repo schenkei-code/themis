@@ -1,0 +1,28 @@
+{
+  "name": "themis",
+  "version": "1.0.0",
+  "description": "THEMIS — Having rights is good. Enforcing them is better. Full-stack legal AI assistant covering AT/DE/EU/US law with exact statutes, case law, templates, and enforcement strategies.",
+  "author": "Dominik Schenkel",
+  "skills": [
+    {
+      "name": "themis",
+      "path": "skills/themis/SKILL.md",
+      "description": "Full legal assistant — all areas of law (AT/DE/EU/US) with exact statutes, case law, and strategy"
+    },
+    {
+      "name": "brief",
+      "path": "skills/brief/SKILL.md",
+      "description": "Generates finished legal letters, cease & desist, contracts, complaints — just describe the situation"
+    },
+    {
+      "name": "vertrag",
+      "path": "skills/vertrag/SKILL.md",
+      "description": "Contract generator and reviewer — influencer deals, employment, NDAs, purchase agreements, rental"
+    },
+    {
+      "name": "strafanzeige",
+      "path": "skills/strafanzeige/SKILL.md",
+      "description": "Structured criminal complaint generator for AT/DE/US — police report, DA complaint, civil filing"
+    }
+  ]
+}

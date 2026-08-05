@@ -1,6 +1,6 @@
 {
   "name": "themis",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "THEMIS — Having rights is good. Enforcing them is better. Full-stack legal AI assistant covering AT/DE/EU/US law with exact statutes, case law, templates, and enforcement strategies.",
   "author": {
     "name": "Dominik Schenkel",
@@ -9,5 +9,5 @@
   "homepage": "https://github.com/schenkei-code/themis",
   "repository": "https://github.com/schenkei-code/themis",
   "license": "MIT",
-  "keywords": ["legal", "law", "attorney", "rights", "gdpr", "dmca", "copyright", "trademark", "austria", "germany", "europe", "usa", "influencer", "contracts", "criminal"]
+  "keywords": ["legal", "law", "attorney", "rights", "gdpr", "dmca", "copyright", "trademark", "austria", "germany", "europe", "usa", "influencer", "contracts", "criminal", "tax", "steuerrecht", "finanzamt", "corporate"]
 }

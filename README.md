@@ -5,7 +5,7 @@
 [![Claude Code Plugin](https://img.shields.io/badge/Claude%20Code-Plugin-blueviolet?style=for-the-badge&logo=anthropic)](https://claude.ai/code)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 [![Jurisdictions](https://img.shields.io/badge/Jurisdictions-AT%20%7C%20DE%20%7C%20EU%20%7C%20US-orange?style=for-the-badge)](#coverage)
-[![Skills](https://img.shields.io/badge/Skills-4-blue?style=for-the-badge)](#skills)
+[![Skills](https://img.shields.io/badge/Skills-5-blue?style=for-the-badge)](#skills)
 
 **THEMIS** is a full-stack legal AI assistant for Claude Code, covering Austrian, German, EU, and US law with exact statutes, landmark case references, ready-to-use legal templates, and enforcement strategies — across every major area of law.
 
@@ -98,6 +98,14 @@ Create or audit any contract:
 
 Red flags highlighted. Missing clauses identified. Unfair terms flagged.
 
+### `/finanzamt` — Tax Office & Tax Procedure Generator
+Fight or manage tax assessments in AT/DE:
+- Bescheidbeschwerde (§ 243 BAO) / Einspruch (§ 347 AO) — ready to file
+- Payment plans & deferral (§ 212 BAO / § 222 AO)
+- Suspension of enforcement while you appeal (§ 212a BAO / § 361 AO)
+- Voluntary disclosure guidance (§ 29 FinStrG / § 371 AO) — with hard warnings
+- Deadline table so you never miss the 1-month window
+
 ### `/strafanzeige` — Criminal Complaint Generator
 Structured police reports and criminal complaints for AT/DE/US:
 - Correct statutes for each crime
@@ -111,10 +119,10 @@ Structured police reports and criminal complaints for AT/DE/US:
 ## Coverage
 
 ### 🇦🇹 Austria (ABGB, StGB, UrhG, MRG, EheG, IO...)
-Criminal law · Civil/contract law · Family & divorce · Inheritance · Employment · Copyright · Trademark · Rental law · Data protection · Competition law · Administrative law · Insolvency
+Criminal law · Civil/contract law · Family & divorce · Inheritance · Employment · Copyright · Trademark · Rental law · Data protection · Competition law · Administrative law · Insolvency · Tax law (EStG, UStG, KStG, BAO, FinStrG) · Corporate law (GmbH, FlexCo)
 
 ### 🇩🇪 Germany (BGB, StGB, UrhG, KSchG, MarkenG, InsO...)
-Criminal law · Civil law · Family law (BGB + Düsseldorfer Tabelle) · Employment (KSchG, AGG, BetrVG) · Copyright · Trademark · Rental law · GDPR implementation · Competition law (UWG) · Insolvency
+Criminal law · Civil law · Family law (BGB + Düsseldorfer Tabelle) · Employment (KSchG, AGG, BetrVG) · Copyright · Trademark · Rental law · GDPR implementation · Competition law (UWG) · Insolvency · Tax law (EStG, UStG, AO) · Corporate law (GmbH, UG)
 
 ### 🇪🇺 EU
 GDPR (all 99 articles) · DSA · EUTM trademark law · Consumer rights directives · E-Commerce law · Platform liability (Section 230 equivalent)
@@ -172,6 +180,7 @@ claude plugin install github:schenkei-code/themis
 | Rental / Property | ✅ | ✅ | — | — |
 | Traffic Law | ✅ | ✅ | — | ✅ |
 | Corporate / Business | ✅ | ✅ | ✅ | ✅ |
+| Tax Law / Tax Procedure | ✅ | ✅ | ✅ | ✅ |
 | Insolvency / Bankruptcy | ✅ | ✅ | — | ✅ |
 | Competition Law | ✅ | ✅ | ✅ | ✅ |
 | Influencer / FTC Rules | ✅ | ✅ | ✅ | ✅ |

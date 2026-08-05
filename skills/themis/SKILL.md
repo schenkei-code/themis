@@ -1,6 +1,6 @@
 ---
 name: themis
-description: THEMIS — Having rights is good. Enforcing them is better. Full legal AI assistant covering AT/DE/EU/US law — all areas, exact statutes, case law, templates, enforcement strategies
+description: THEMIS — Having rights is good. Enforcing them is better. Full legal AI assistant covering AT/DE/EU/US law — all areas incl. tax law & tax procedure (Steuerrecht, Finanzamt), corporate law, exact statutes, case law, templates, enforcement strategies
 ---
 
 # THEMIS — Full Legal AI Assistant
@@ -540,32 +540,39 @@ bis der Mangel vollständig behoben ist.
 
 ---
 
-# TEIL J: GESELLSCHAFTSRECHT
+# TEIL J: GESELLSCHAFTS- & UNTERNEHMENSRECHT
 
-## J1. Österreich
+## J1. Österreich — Rechtsformen
 
-- **§ 1 GmbHG**: GmbH — Mindestkapital 35.000€ (tatsächlich einzahlen: 17.500€), Haftung auf Gesellschaftsvermögen beschränkt
-- **§ 82 GmbHG**: Gewinnverteilung
-- **§ 86 GmbHG**: Geschäftsführung — Sorgfaltspflicht
-- **§ 25 GmbHG**: Haftung des Geschäftsführers
-- **§ 1 OG**: Offene Gesellschaft — unbeschränkte persönliche Haftung aller Gesellschafter
-- **§ 161 UGB**: Kommanditgesellschaft — Komplementär haftet unbeschränkt, Kommanditist beschränkt auf Einlage
-- **§ 2 AktG**: Aktiengesellschaft — Mindestkapital 70.000€
-- **§ 1 UGB**: Unternehmer — wer selbständig ein Unternehmen betreibt
-- **§ 907 UGB**: Prokura — umfassende Vollmacht für alle gerichtlichen + außergerichtlichen Geschäfte
+- **§ 1 GmbHG**: GmbH — Mindeststammkapital **10.000€** seit 1.1.2024 (GesRÄG 2023; davor 35.000€), davon 5.000€ bar einzuzahlen. Haftung auf Gesellschaftsvermögen beschränkt
+- **FlexKapG (seit 1.1.2024)**: Flexible Kapitalgesellschaft (FlexCo) — GmbH-Variante für Startups: Unternehmenswert-Anteile bis 25% für Mitarbeiter, vereinfachte Anteilsübertragung (Notariatsakt nur bedingt nötig), Mindestkapital 10.000€
+- **§ 82 GmbHG**: Gewinnverteilung; verdeckte Einlagenrückgewähr verboten
+- **§ 25 GmbHG**: Sorgfaltspflicht + Haftung des Geschäftsführers (Sorgfalt eines ordentlichen Geschäftsmannes)
+- **§ 1 OG / § 161 UGB**: OG — alle haften unbeschränkt; KG — Komplementär unbeschränkt, Kommanditist bis zur Einlage
+- **§ 2 AktG**: AG — Mindestkapital 70.000€
+- **§ 1 UGB**: Unternehmerbegriff; **§ 48 UGB**: Prokura
+- **§ 189 UGB**: Rechnungslegungspflicht — ab 700.000€ Umsatz in zwei Folgejahren (bzw. sofort ab 1.000.000€) doppelte Buchführung; darunter EAR möglich
+- **Firmenbuch**: Eintragung beim Landesgericht; GmbH entsteht erst mit Eintragung
+- **GewO**: freies vs. reglementiertes Gewerbe (Befähigungsnachweis); Anmeldung bei der BH/Magistrat, GISA
 
-## J2. Deutschland
+### Geschäftsführer-Haftung AT (die Praxis-Falle)
+- **§ 25 GmbHG**: Innenhaftung gegenüber der Gesellschaft
+- **§ 9 BAO**: persönliche Haftung für Abgaben bei schuldhafter Pflichtverletzung (Gleichbehandlungsgrundsatz aller Gläubiger!)
+- **§ 67 ASVG**: persönliche Haftung für SV-Dienstnehmerbeiträge
+- **§ 69 IO**: Insolvenzantrag spätestens **60 Tage** nach Eintritt der Zahlungsunfähigkeit
+- **§§ 156, 159 StGB**: betrügerische Krida / grob fahrlässige Beeinträchtigung von Gläubigerinteressen
 
-- **§ 1 GmbHG**: GmbH — Mindestkapital 25.000€; Unternehmergesellschaft (UG) ab 1€ möglich
+## J2. Deutschland — Rechtsformen
+
+- **§ 1 GmbHG**: GmbH — Mindestkapital 25.000€ (12.500€ einzuzahlen); UG (haftungsbeschränkt) ab 1€ mit 25% Rücklagenpflicht (§ 5a)
 - **§ 13 GmbHG**: Haftungsbeschränkung auf Gesellschaftsvermögen
-- **§ 43 GmbHG**: Haftung des Geschäftsführers — bei Pflichtverletzung persönlich
-- **§ 64 GmbHG / § 15a InsO**: Insolvenzantragspflicht — spätestens 6 Wochen nach Zahlungsunfähigkeit oder Überschuldung
-- **§ 1 AktG**: AG — Mindestkapital 50.000€
-- **§ 76 AktG**: Vorstand — Leitung der AG in eigener Verantwortung
-- **§ 105 HGB**: OHG — alle Gesellschafter haften persönlich und gesamtschuldnerisch
-- **§ 161 HGB**: KG — Komplementär unbeschränkt, Kommanditist beschränkt
-- **§ 1 PartGG**: Partnerschaftsgesellschaft für Freiberufler (PartG mbB)
-- **§ 705 BGB**: GbR — Gesellschaft bürgerlichen Rechts (einfachste Form, keine Mindesteinlage)
+- **§ 43 GmbHG**: Geschäftsführerhaftung bei Pflichtverletzung
+- **§ 15a InsO**: Insolvenzantragspflicht — ohne schuldhaftes Zögern, spätestens **3 Wochen** nach Zahlungsunfähigkeit, 6 Wochen nach Überschuldung
+- **§ 69 AO**: persönliche GF-Haftung für Steuern der Gesellschaft
+- **§ 1 AktG**: AG — 50.000€; **§ 76 AktG**: Vorstand leitet eigenverantwortlich
+- **§ 105 / § 161 HGB**: OHG / KG
+- **§ 1 PartGG**: PartG mbB für Freiberufler
+- **§ 705 BGB**: GbR; seit 2024 eingetragene eGbR im Gesellschaftsregister (MoPeG)
 
 ---
 
@@ -887,6 +894,91 @@ Sprache: Deutsch, direkt, klar. Wenn Österreicher → AT-Recht primär, DE erg�
 - **DACA**: Deferred Action for Childhood Arrivals — not a law, executive policy; ongoing legal challenges
 - **Deportation/Removal (8 U.S.C. § 1227)**: Grounds include: criminal convictions (aggravated felony, drugs), visa overstay, document fraud
 - **Asylum (8 U.S.C. § 1158)**: Must apply within 1 year of arrival; persecution based on race, religion, nationality, political opinion, social group
+
+---
+
+# TEIL P: STEUERRECHT & FINANZAMT
+
+*Betragsgrenzen und Tarifstufen werden laufend valorisiert — Zahlen mit Jahresangabe gelten für dieses Jahr, im Zweifel aktuellen Stand prüfen (BMF.gv.at / bundesfinanzministerium.de).*
+
+## P1. Österreich — Einkommensteuer (EStG 1988)
+
+- **§ 1 EStG**: Unbeschränkte Steuerpflicht bei Wohnsitz/gewöhnlichem Aufenthalt in AT — Welteinkommen
+- **§ 2 EStG**: 7 Einkunftsarten; außerbetrieblich vs. betrieblich
+- **§ 33 EStG**: Tarifstufen 0% / 20% / 30% / 40% / 48% / 50%, 55% ab 1 Mio. Grenzbeträge werden seit 2023 jährlich valorisiert (Abschaffung der kalten Progression) — unterste Stufe ~13.300€ (2025)
+- **§ 33 Abs 3a**: Familienbonus Plus — 2.000€/Kind/Jahr bis 18 (Absetzbetrag, nicht Freibetrag)
+- **§ 4 Abs 3 EStG**: Einnahmen-Ausgaben-Rechnung — Standard für kleine Unternehmen
+- **§ 17 EStG**: Basispauschalierung — pauschale Betriebsausgaben ohne Belege; Umsatzgrenze und Satz 2025 deutlich angehoben (320.000€ / 13,5%, ab 2026 höher)
+- **§ 17 Abs 3a EStG**: Kleinunternehmerpauschalierung — 45% Ausgabenpauschale (Dienstleister: 20%)
+- **§ 10 EStG**: Gewinnfreibetrag — 15% Grundfreibetrag bis 33.000€ Gewinn automatisch, darüber investitionsbedingt
+- **§ 41 EStG**: Arbeitnehmerveranlagung — **5 Jahre rückwirkend** möglich
+- **§ 134 BAO**: Erklärungsfristen — 30.4. (Papier) / 30.6. (FinanzOnline); mit Steuerberater länger (Quotenregelung)
+
+## P2. Österreich — Umsatzsteuer (UStG 1994)
+
+- **§ 10 UStG**: Sätze — 20% Normal, 10% ermäßigt (Lebensmittel, Wohnraummiete, Bücher, Personenbeförderung), 13% (Kultur, Beherbergung… je nach Kategorie)
+- **§ 6 Abs 1 Z 27 UStG**: **Kleinunternehmer — 55.000€ brutto** Jahresumsatz (seit 2025; vorher 35.000€ netto). Keine USt in Rechnung, kein Vorsteuerabzug; einmalige Toleranz +10%
+- **§ 6 Abs 3**: Option zur Regelbesteuerung (bindet 5 Jahre) — sinnvoll bei hohen Vorsteuern
+- **§ 19 UStG**: Reverse Charge bei B2B-Leistungen aus dem Ausland
+- **§ 21 UStG**: UVA — monatlich; bis 100.000€ Vorjahresumsatz vierteljährlich; fällig am 15. des zweitfolgenden Monats
+- **EU-OSS**: grenzüberschreitender B2C-Verkauf über den One-Stop-Shop (MwSt-RL 2006/112/EG), Lieferschwelle EU-weit 10.000€
+
+## P3. Österreich — Körperschaft & GmbH-Steuern
+
+- **§ 22 KStG**: KöSt **23%** (seit 2024; davor 24%/25%)
+- **§ 24 Abs 4 KStG**: Mindest-KöSt 500€/Jahr (GmbH mit 10.000€ Stammkapital)
+- **KESt § 93 EStG**: 27,5% auf Ausschüttungen → Gesamtbelastung ausgeschütteter GmbH-Gewinn ~44%
+- **Faustregel**: Einzelunternehmen bis ~50-80k Gewinn meist günstiger; GmbH lohnt bei Thesaurierung, Haftung, mehreren Gesellschaftern
+
+## P4. Österreich — Verfahren & Finanzstrafrecht (BAO / FinStrG)
+
+**Gegen einen Bescheid vorgehen:**
+- **§ 243, § 245 BAO**: Bescheidbeschwerde — Frist **1 Monat** ab Zustellung, beim Finanzamt einbringen (FinanzOnline)
+- **§ 262 BAO**: Beschwerdevorentscheidung des Finanzamts; dagegen **§ 264 BAO** Vorlageantrag (1 Monat) → Bundesfinanzgericht
+- **§ 212a BAO**: Aussetzung der Einhebung — strittiger Betrag muss bis zur Entscheidung nicht gezahlt werden
+- **§ 299 BAO**: Aufhebung wegen inhaltlicher Rechtswidrigkeit (1 Jahr); **§ 303 BAO**: Wiederaufnahme
+- **§ 207 BAO**: Festsetzungsverjährung 5 Jahre, **hinterzogene Abgaben 10 Jahre**
+
+**Zahlen & Fristen:**
+- **§ 212 BAO**: Zahlungserleichterung — Stundung oder Raten auf Antrag (erhebliche Härte + keine Gefährdung der Einbringlichkeit)
+- **§ 217 BAO**: Säumniszuschlag 2% (dann 1% + 1%)
+
+**Finanzstrafrecht (FinStrG):**
+- **§ 33**: Abgabenhinterziehung (vorsätzlich) — Geldstrafe bis zum **2-fachen** des Verkürzungsbetrags; ab 100.000€ strafbestimmendem Wertbetrag Gerichtszuständigkeit (§ 53), dann auch Freiheitsstrafe möglich
+- **§ 34**: grob fahrlässige Abgabenverkürzung — bis 1-fach
+- **§ 49**: Finanzordnungswidrigkeit (z.B. UVA zu spät) — bis 50% 
+- **§ 29 FinStrG — Selbstanzeige**: strafbefreiend bei vollständiger Offenlegung + fristgerechter Entrichtung (1 Monat bzw. Zahlungsplan). Nach Ankündigung einer Prüfung nur mit Abgabenerhöhung 5–30% (Abs 6). Pro Abgabe/Zeitraum nur **einmal**. Bei relevanten Beträgen: vorher Steuerberater
+- **Praxis Prüfung**: Außenprüfung § 147 BAO — Ankündigung, Prüfungsauftrag, Schlussbesprechung; Nachschau § 144
+
+## P5. Österreich — Selbständige & SVS
+
+- **GSVG**: KV 6,8% + PV 18,5% vom Gewinn; Mindest- und Höchstbeitragsgrundlagen, Nachbemessung nach 3 Jahren (Rückstellungen bilden!)
+- **Kleinstunternehmer-Ausnahme § 4 Abs 1 Z 7 GSVG**: auf Antrag keine SVS-Pflicht bei Umsatz unter der UStG-Kleinunternehmergrenze **und** Gewinn unter der Geringfügigkeitsgrenze (~6.600€/Jahr, 2025)
+- **Neue Selbständige**: Meldung an SVS bei Überschreiten der Versicherungsgrenze — sonst 9,3% Beitragszuschlag
+
+## P6. Deutschland — Steuern
+
+- **§ 32a EStG**: Tarif 14–42%, 45% ab ~278.000€; Grundfreibetrag ~12.100€ (2025, jährlich angepasst)
+- **§ 4 Abs 3 EStG**: EÜR; Buchführungspflicht **§ 141 AO** ab 800.000€ Umsatz / 80.000€ Gewinn (seit 2024)
+- **§ 32d EStG**: Abgeltungsteuer 25% + Soli auf Kapitalerträge; Sparer-Pauschbetrag 1.000€
+- **§ 12 UStG**: 19% / 7%
+- **§ 19 UStG**: **Kleinunternehmer — 25.000€ Vorjahr / 100.000€ laufendes Jahr** (seit 2025; vorher 22.000/50.000)
+- **KSt**: 15% + Soli + Gewerbesteuer (§ 11 GewStG, Hebesatz der Gemeinde) → gesamt ~30%; GewSt-Freibetrag 24.500€ für Einzelunternehmen/Personengesellschaften
+- **§ 149 AO**: Abgabefrist 31.7. des Folgejahres; mit Steuerberater bis Ende Februar des übernächsten Jahres
+- **§ 347, § 355 AO**: **Einspruch** gegen Steuerbescheid — 1 Monat, kostenlos; **§ 361 AO** Aussetzung der Vollziehung
+- **§ 222 AO**: Stundung; **§ 227 AO**: Erlass; **§ 240 AO**: Säumniszuschlag 1%/Monat
+- **§ 169 AO**: Festsetzungsverjährung 4 Jahre; leichtfertig 5; **hinterzogen 10**
+- **§ 370 AO**: Steuerhinterziehung — bis 5 Jahre Freiheitsstrafe, besonders schwerer Fall (ab ~50.000€) bis 10 Jahre (BGH 1 StR 416/08: ab 1 Mio. regelmäßig Haft ohne Bewährung)
+- **§ 371 AO**: Selbstanzeige — vollständig für **alle unverjährten Jahre einer Steuerart** (mind. 10 Jahre); Sperrgründe (Prüfungsanordnung, Tatentdeckung); ab 25.000€ nur mit Zuschlag **§ 398a AO** (10/15/20%)
+
+## P7. USA — Federal Tax (IRC, Title 26)
+
+- **Form 1040**: Filing deadline **April 15**; extension to Oct 15 via Form 4868 (payment still due April 15)
+- **Self-Employment Tax**: 15.3% (Social Security + Medicare) on net earnings — on top of income tax
+- **Entities**: LLC = pass-through by default; C-Corp flat **21%** (TCJA); S-Corp election (Form 2553) can cut SE tax
+- **§ 6501 IRC**: Audit statute of limitations 3 years; 6 years if >25% income omitted; **unlimited on fraud**
+- **Collections**: Installment Agreement (Form 9465), Offer in Compromise (Form 656), Currently-Not-Collectible status
+- **Praxis**: Quarterly estimated taxes (Form 1040-ES) — underpayment penalty otherwise; 1099-NEC ab $600
 
 ---
 

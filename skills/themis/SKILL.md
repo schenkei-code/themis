@@ -971,7 +971,22 @@ Sprache: Deutsch, direkt, klar. Wenn Österreicher → AT-Recht primär, DE erg�
 - **§ 370 AO**: Steuerhinterziehung — bis 5 Jahre Freiheitsstrafe, besonders schwerer Fall (ab ~50.000€) bis 10 Jahre (BGH 1 StR 416/08: ab 1 Mio. regelmäßig Haft ohne Bewährung)
 - **§ 371 AO**: Selbstanzeige — vollständig für **alle unverjährten Jahre einer Steuerart** (mind. 10 Jahre); Sperrgründe (Prüfungsanordnung, Tatentdeckung); ab 25.000€ nur mit Zuschlag **§ 398a AO** (10/15/20%)
 
-## P7. USA — Federal Tax (IRC, Title 26)
+## P7. EU — Steuerrecht
+
+- **MwSt-Systemrichtlinie 2006/112/EG**: harmonisierte USt in allen Mitgliedstaaten — Mindestnormalsatz 15%, tatsächliche Sätze national (AT 20%, DE 19%, HU 27%, LU 17%)
+- **OSS (One-Stop-Shop)**: B2C-Fernverkäufe & digitale Leistungen EU-weit über EINE Registrierung melden; EU-weite Lieferschwelle **10.000€** (darunter Heimatland-USt)
+- **IOSS**: Import-OSS für Drittlandsware bis 150€ Warenwert
+- **Reverse Charge (Art. 196)**: B2B-Dienstleistungen ins EU-Ausland — Leistungsempfänger schuldet die USt; ZM (Zusammenfassende Meldung) Pflicht
+- **UID/VIES**: USt-ID des Geschäftspartners vor Netto-Rechnung prüfen (ec.europa.eu/vies) — sonst haftet der Leistende
+- **DAC7 (RL 2021/514)**: Plattformen (Airbnb, eBay, Etsy, Fiverr…) melden Verkäufer-Umsätze automatisch an die Finanzämter — ab 30 Verkäufen oder 2.000€/Jahr. „Das Finanzamt weiß es schon"
+- **CESOP (seit 2024)**: Zahlungsdienstleister melden grenzüberschreitende Zahlungen (>25/Quartal an denselben Empfänger)
+- **Mutter-Tochter-RL 2011/96/EU**: keine Quellensteuer auf Dividenden zwischen verbundenen EU-Gesellschaften (ab 10% Beteiligung)
+- **Zins-Lizenz-RL 2003/49/EG**: quellensteuerfreie Zinsen/Lizenzen im Konzern
+- **Pillar 2 (RL 2022/2523)**: globale Mindeststeuer 15% für Konzerne ab 750 Mio.€ Umsatz (AT: MinBestG, DE: MinStG, seit 2024)
+- **DBA-Netz**: Doppelbesteuerung wird über bilaterale Abkommen (OECD-MA) gelöst — Ansässigkeit, Betriebsstätte (Art. 5), 183-Tage-Regel (Art. 15)
+- **Zoll (UZK)**: Einfuhr aus Drittland = Zoll + Einfuhrumsatzsteuer; Zollwert inkl. Fracht
+
+## P8. USA — Federal Tax (IRC, Title 26)
 
 - **Form 1040**: Filing deadline **April 15**; extension to Oct 15 via Form 4868 (payment still due April 15)
 - **Self-Employment Tax**: 15.3% (Social Security + Medicare) on net earnings — on top of income tax

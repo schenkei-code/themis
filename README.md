@@ -99,11 +99,13 @@ Create or audit any contract:
 Red flags highlighted. Missing clauses identified. Unfair terms flagged.
 
 ### `/finanzamt` — Tax Office & Tax Procedure Generator
-Fight or manage tax assessments in AT/DE:
+Fight or manage tax assessments in AT/DE/EU/US:
 - Bescheidbeschwerde (§ 243 BAO) / Einspruch (§ 347 AO) — ready to file
 - Payment plans & deferral (§ 212 BAO / § 222 AO)
 - Suspension of enforcement while you appeal (§ 212a BAO / § 361 AO)
 - Voluntary disclosure guidance (§ 29 FinStrG / § 371 AO) — with hard warnings
+- IRS notice responses, installment agreements, Offer in Compromise, the hard 90-day Tax Court window
+- Cross-border: DAC7 platform reports, OSS corrections, double-taxation relief
 - Deadline table so you never miss the 1-month window
 
 ### `/strafanzeige` — Criminal Complaint Generator
